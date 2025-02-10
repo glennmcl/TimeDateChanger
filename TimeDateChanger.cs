@@ -32,7 +32,7 @@ namespace TimeDateChanger
 
         private void InitializeComponent()
         {
-            this.Text = "Electron Experts Time and Date Changer";
+            this.Text = "Time and Date Changer";
             this.Size = new System.Drawing.Size(400, 300);
 
             dateTimePicker1 = new DateTimePicker
